@@ -1,0 +1,5 @@
+{
+ "java.project.referencedLibraries": [
+ "/Users/shale/Github/IntroSoftwareEng/libraries/lwjgl-release-3.3.6-custom/**/*.jar"
+ ]
+}
